@@ -1,6 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    package:="io.hoopoo.pokedex"
     <application
-        android:label="pokedex"
+        android:label="PokeDex by AlfaMitsu"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
